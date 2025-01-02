@@ -1,6 +1,6 @@
 <?php
 
-namespace Orbit\Orbit;
+namespace Orbitphpframework\Orbit;
 
 class MyClass
 {

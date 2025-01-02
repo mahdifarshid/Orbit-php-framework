@@ -2,7 +2,7 @@
     "name": "orbit/orbit",
     "autoload": {
         "psr-4": {
-            "Orbit\\Orbit\\": "src/"
+            "Orbitphpframework\\Orbit\\": "src/"
         }
     },
     "authors": [

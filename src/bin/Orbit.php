@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-use Orbit\Orbit\Framework;
+use Orbitphpframework\Orbit\Framework;
 
 require __DIR__ . '/../../vendor/autoload.php';
 

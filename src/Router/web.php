@@ -1,6 +1,6 @@
 <?php
 
-use Orbit\Orbit\Router;
+use Orbitphpframework\Orbit\Router;
 
 $router = new Router();
 
