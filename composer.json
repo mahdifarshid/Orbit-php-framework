@@ -1,0 +1,15 @@
+{
+    "name": "orbit/orbit",
+    "autoload": {
+        "psr-4": {
+            "Orbit\\Orbit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahdifarshid",
+            "email": "farshidf276@gmail.com"
+        }
+    ],
+    "require": {}
+}
